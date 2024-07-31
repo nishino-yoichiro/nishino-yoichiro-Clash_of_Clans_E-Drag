@@ -4,12 +4,18 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; text-align: center;">
-    <h3>Before</h3>
-    <img src="assets/Before.png" alt="Before Image" style="max-width: 100%;">
-  </div>
-  <div style="flex: 1; text-align: center;">
     <h3>Uploading</h3>
     <img src="assets/UI.png" alt="Uploading Image" style="max-width: 100%;">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <h3>Classes</h3>
+    <img src="assets/Classes.png" alt="Categorizing" style="max-width: 100%;">
+  </div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; text-align: center;">
+    <h3>Before</h3>
+    <img src="assets/Before.png" alt="Before Image" style="max-width: 100%;">
   </div>
   <div style="flex: 1; text-align: center;">
     <h3>After</h3>
